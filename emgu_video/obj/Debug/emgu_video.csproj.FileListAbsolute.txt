@@ -1,0 +1,12 @@
+D:\c#dev\emgu_video\emgu_video\bin\Debug\emgu_video.exe
+D:\c#dev\emgu_video\emgu_video\obj\Debug\emgu_video.MainForm.resources
+D:\c#dev\emgu_video\emgu_video\obj\Debug\emgu_video.csproj.GenerateResource.Cache
+D:\c#dev\emgu_video\emgu_video\obj\Debug\emgu_video.exe
+D:\c#dev\emgu_video\emgu_video\obj\Debug\emgu_video.csprojResolveAssemblyReference.cache
+D:\c#dev\emgu_video\emgu_video\bin\Debug\Emgu.CV.dll
+D:\c#dev\emgu_video\emgu_video\bin\Debug\Emgu.CV.UI.dll
+D:\c#dev\emgu_video\emgu_video\bin\Debug\Emgu.Util.dll
+D:\c#dev\emgu_video\emgu_video\bin\Debug\ZedGraph.dll
+D:\c#dev\emgu_video\emgu_video\bin\Debug\Emgu.CV.xml
+D:\c#dev\emgu_video\emgu_video\bin\Debug\Emgu.CV.UI.xml
+D:\c#dev\emgu_video\emgu_video\bin\Debug\Emgu.Util.xml
